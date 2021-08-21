@@ -27,12 +27,13 @@
 
 
 ## 🚀 I'm working with this Languages & Tools.
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
 [<img align="left" alt="lua" width="30px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />][c#]
 [<img align="left" alt="lua" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />][js]
 [<img align="left" alt="lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][html]
 [<img align="left" alt="lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />][css]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
+
 
 <br />
 <br />
