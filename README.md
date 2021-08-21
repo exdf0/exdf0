@@ -46,7 +46,7 @@ I also work as a FreeLancer 🆓.
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exdf0&hide=javascript,css,scss,html&theme=tokyonight" alt="mukireus"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exdf0&hide=javascript,lua,css,scss,html&theme=tokyonight" alt="mukireus"/>
 </a>
 <br />
 <br />
