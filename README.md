@@ -2,7 +2,7 @@
 
 ## I'm a Student 👨‍🎓, Game / Web / Desktop Developer 🚀!
 - 🔭 I’m currently working on dektop application
-- 🌱 I’m currently learning 😂
+- 🌱 I’m currently learning �
 - 👯 I’m looking to collaborate with other web developer 👩‍💻 and desktop app developer 🎨
 - 🤔 I’m still learning to .lua , .php , .js and  .py.
 - 🥅 2022 Goals: I want to improve myself 🌎 and learning  vue.js & react.js 🤖
