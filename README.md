@@ -44,7 +44,7 @@
 <br />
 
 ## 🚀 I'm working with this languages.
-
+[<img align="left" alt="Lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
 
 
 
