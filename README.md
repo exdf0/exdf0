@@ -43,14 +43,22 @@
 <br />
 <br />
 
+## 🚀 I'm working with this languages.
+[<img align="left" alt="Lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
 
+
+
+
+<br />
+<br />
+<br />
 ### GitHub Analytics 📊
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exdf0&hide=javascript,lua,css,scss,html&theme=tokyonight" alt="mukireus"/>
 </a>
 <br />
 <br />
-
+[lua]: https://www.lua.org
 [instagram]: https://www.instagram.com/hakan.arslan0
 [bionluk]: https://bionluk.com/exiledf
 [linkedin]: https://www.linkedin.com/in/
