@@ -38,6 +38,9 @@
 ## 🚀 I'm working with this languages.
 [<img align="left" alt="lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
 [<img align="left" alt="lua" width="30px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />][c#]
+[<img align="left" alt="lua" width="30px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />][js]
+[<img align="left" alt="lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][html]
+[<img align="left" alt="lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />][css]
 
 <br />
 <br />
@@ -63,3 +66,6 @@
 [xd]: https://www.adobe.com/products/xd.html
 [lua]: https://www.lua.org
 [c#]: https://dotnet.microsoft.com/apps/aspnet/web-apps
+[js]: https://www.javascript.com
+[html]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png
+[css]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png
