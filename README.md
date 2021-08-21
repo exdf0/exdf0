@@ -44,7 +44,7 @@
 <br />
 
 ## 🚀 I'm working with this languages.
-[<img align="left" alt="Lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
+[<img align="left" alt="lua" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" />][lua]
 
 
 
@@ -71,3 +71,4 @@
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
+[lua]: https://www.lua.org
