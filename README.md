@@ -3,10 +3,10 @@
 ## I'm a Student 👨‍🎓, Game / Web / Desktop Developer 🚀!
 - 🔭 I’m currently working on dektop application
 - 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
-- 🤔 I’m looking for help with Flutter front-end developer
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+- 👯 I’m looking to collaborate with other web developer 👩‍💻 and desktop app developer 🎨
+- 🤔 I’m still learning to .lua , .php , .js and  .py.
+- 🥅 2022 Goals: I want to improve myself 🌎 and learning  vue.js & react.js 🤖
+- ⚡ Fun fact: I love to play chess ♟, play basketball 🏀 and listening to music.
 
 
 ## ⏲ What we are doing now:
@@ -36,9 +36,6 @@ I also work as a FreeLancer 🆓.
 
 <br />
 
-## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
-
 
 <br />
 <br />
@@ -51,7 +48,6 @@ I also work as a FreeLancer 🆓.
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=exdf0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exdf0&show_icons=true&theme=radical)
 <br />
 <br />
 
