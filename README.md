@@ -10,9 +10,9 @@
 
 
 ## ⏲ What we are doing now:
-I'm developing a project for Fivem 📃.
-I'm a Computer Programming Student 💻. I'm developing an website & desktop app with my team 👨🏼‍🤝‍👨🏻, 
-I also work as a FreeLancer 🆓.
+- I'm developing a project for Fivem 📃.
+- I'm a Computer Programming Student 💻. I'm developing an website & desktop app with my team 👨🏼‍🤝‍👨🏻, 
+- I also work as a FreeLancer 🆓.
 
 <br />
 
