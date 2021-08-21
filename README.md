@@ -40,10 +40,11 @@
 
 ### GitHub Analytics 📊
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exdf0&hide=javascript,lua,css,scss,html&theme=tokyonight" alt="mukireus"/>
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=exdf0&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="mukireus"/>
 </a>
 <br />
 <br />
+
 
 [instagram]: https://www.instagram.com/hakan.arslan0
 [bionluk]: https://bionluk.com/exiledf
