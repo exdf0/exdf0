@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on dektop application
 - 🌱 I’m currently learning �
 - 👯 I’m looking to collaborate with other web developer 👩‍💻 and desktop app developer 🎨
-- 🤔 I’m still learning to .lua , .php , .js and  .py.
+- 🤔 I’m still learning to .lua , .php , .js and  .c#.
 - 🥅 2022 Goals: I want to improve myself 🌎 and learning  vue.js & react.js 🤖
 - ⚡ Fun fact: I love to play chess ♟, play basketball 🏀 and listening to music.
 
