@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/65626933112811.56a01870441f4.gif?raw=true" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Game / Web / Desktop Developer 🚀!
-- 🔭 I’m currently working on dektop application
+- 🔭 I’m currently working on desktop application
 - 🌱 I’m currently learning �
 - 👯 I’m looking to collaborate with other web developer 👩‍💻 and desktop app developer 🎨
 - 🤔 I’m still learning to .lua , .php , .js and  .c#.
